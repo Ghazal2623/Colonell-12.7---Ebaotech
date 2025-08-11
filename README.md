@@ -11,3 +11,17 @@ This sample Java project simulates key backend functions from the Colonell 12.7 
 - `PDFGenerator` — Simulates PDF report creation.  
 - `SecureDataExchange` — Provides AES encryption/decryption of sensitive data.  
 - `Main` — Demo usage of all modules together.
+
+## Skills Demonstrated
+- Java backend development  
+- API integration concepts (email)  
+- PDF generation basics (iText library simulation)  
+- Data security using encryption  
+- Clean code and modular design
+
+---
+
+*Author:* Ghazal Ashraf  
+*Role:* Java Developer / Software Consultant  
+*Email:* ghazal.ashraf24@gmail.com  
+*LinkedIn:* (https://www.linkedin.com/in/ghazal-ashraf)
